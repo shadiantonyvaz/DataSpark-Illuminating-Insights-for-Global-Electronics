@@ -7,7 +7,7 @@ Purpose: This dashboard provides a comprehensive overview of sales performance a
 3. Customer Insights[https://public.tableau.com/app/profile/shadi.a5361/viz/GlobalElectronicsDashboardInsightsAnalytics/CustomerInsights]
 Purpose: Offers detailed insights into customer demographics and purchasing behavior.
 
-Interactivity: Allows users to filter data based on customer age and location to better understand customer segments.
+
 4. Product Analysis[https://public.tableau.com/app/profile/shadi.a5361/viz/GlobalElectronicsDashboardInsightsAnalytics2/ProductAnalysisDashboard]
 Purpose: Analyzes product performance, focusing on sales and cost metrics.
 Visualizations:
